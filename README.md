@@ -4,7 +4,7 @@ Alpha 0.5: Doesn't save PDFs as of yet. Feel free to submit a pull request
 # Installation
 
 ## Windows
-Download the "Alpha 0.5 for Windows" from the Releases section and run "Web.PDF.saver.v0.5.exe". It takes a while to start.
+Download the "Windows.zip" from the Releases section, unzip and run "Web.PDF.saver.v0.5.exe". It takes a while to start.
 
 [Note: The binaries(exe files) are not compiled by me. If you want to be super secure then run the source code by the below methods]
 
