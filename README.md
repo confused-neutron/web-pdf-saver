@@ -1,4 +1,16 @@
-# WORK IN PROGRESS
-Now with UI!
-## web-pdf-saver
-Takes screenshots of a book or document and combines them into a pdf.
+## Web PDF saver
+Alpha 0.5: Doesn't save PDFs as of yet. Feel free to submit a pull request
+
+# Installation
+
+## Windows
+Download the "Alpha 0.5 for Windows" from the Releases section and run "Web.PDF.saver.v0.5.exe". It takes a while to start.
+
+[Note: The binaries(exe files) are not compiled by me. If you want to be super secure then run the source code by the below methods]
+
+OR
+
+Install python and then pip install numpy matplotlib.pyplot fpdf pyautogui. Then, download and run the script
+
+## Linux
+Install python and then pip install numpy matplotlib.pyplot fpdf pyauto. Then, download and run the script
