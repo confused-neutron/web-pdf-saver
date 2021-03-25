@@ -1,6 +1,3 @@
-## Web PDF saver
-Alpha 0.5: Doesn't save PDFs as of yet. Feel free to submit a pull request
-
 # Installation
 
 ## Windows
@@ -14,3 +11,6 @@ Install python and then pip install numpy matplotlib.pyplot fpdf pyautogui. Then
 
 ## Linux
 Install python and then pip install numpy matplotlib.pyplot fpdf pyauto. Then, download and run the script
+
+## Web PDF saver
+Alpha 0.5: Doesn't save PDFs as of yet. Feel free to submit a pull request
